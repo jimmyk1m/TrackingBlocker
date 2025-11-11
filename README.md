@@ -1,27 +1,19 @@
 # Tracking Blocker
----------------------------------------  
-    Latest Version: 2025/11/12
-  
-    如有 未被过滤的地址/App 或 拒绝服务的App 请在Issue提出，看到后会尽快更新
-  
-使用教程 - 中文版  
-- [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/main.mobileconfig) 下载主规则
-- 找到描述文件管理菜单  
-    - 打开"设置"  
-    - 打开第三个大框第一行"通用"(齿轮图标)  
-    - 打开最下方倒数第四行"描述文件"  
-- 点击“Please Don't Track Me”  
-- 点右上角的"安装"，然后按照屏幕上的说明操作  
-  
-  
-Tutorial - Eng  
-- [Click](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/main.mobileconfig) to Download Main Rule
-- Find the Profile  
-    - Open "Settings"  
-    - Open "General"  
-    - Open "Profile"  
-- Click on "Please Don't Track Me"  
-- Click on "Install" in the top right corner and follow the on-screen instructions  
 
+---------------------------------------  
+
+Latest Version: 2025/11/12
+Change Log : IOS26不知道改了啥，终于修好了
+
+---------------------------------------  
+
+使用教程
+- [点此](https://cdn.jsdelivr.net/gh/jimmyk1m/TB/main.mobileconfig)，确保弹窗 "已下载描述文件"
+- 选择 "设置"-"已下载的描述文件"，并按屏幕指示输入密码安装
+- 打开 "设置"-"通用"-"VPN与设备管理"
+- 确保 "访问限制和代理"-"DNS"已选择为"Phone detection Blocklist"
+- 恭喜您屏蔽已经生效
+
+---------------------------------------  
 拒绝运行清单 - Denial List  
 招才猫 - 58同城招聘商家版

@@ -40,48 +40,65 @@
 					<array>
 						<string>https://doh.pub/dns-query</string>
 					</array>
-					<key>SupplementalResolvers</key>
+				</dict>
+			</dict>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.j.trackingblocker.phonedetect</string>
+				<key>PayloadUUID</key>
+				<string>a8864b9f-c0ff-cc95-64e6-837c2512767e</string>
+				<key>PayloadDisplayName</key>
+				<string>DNS Settings</string>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
 					<array>
-						<dict>
-							<key>AssociatedDomains</key>
-							<array>
-								<string>nvs.im.tencent.cn</string>
-								<string>ye.dun.163.com</string>
-								<string>config.cmpassport.com</string>
-								<string>config2.cmpassport.com</string>
-								<string>www.cmpassport.com</string>
-								<string>wap.cmpassport.com</string>
-								<string>onekey1.cmpassport.com</string>
-								<string>onekey.cmpassport.com</string>
-								<string>smsks1.cmpassport.com</string>
-								<string>verify.cmpassport.com</string>
-								<string>opencloud.wostore.cn</string>
-								<string>nishub1.10010.com</string>
-								<string>mdn.open.wo.cn</string>
-								<string>id.mail.wo.cn</string>
-								<string>mail.wo.cn</string>
-								<string>auth.wosms.cn</string>
-								<string>ali.wosms.cn</string>
-								<string>hmrz.wo.cn</string>
-								<string>nishub1.10010.com</string>
-								<string>nisportal.10010.com</string>
-								<string>enrichgw.10010.com</string>
-								<string>id6.me</string>
-								<string>open.e.189.cn</string>
-								<string>ctaccount.21cn.com</string>
-								<string>geetest.com</string>
-								<string>114dev.com</string>
-							</array>
-							<key>ServerURLs</key>
-							<array>
-								<string>https://jimmy.science/dns-query</string>
-							</array>
-						</dict>
+						<string>0.0.0.0</string>
 					</array>
+					<key>ServerURLs</key>
+					<array>
+						<string>https://jimmy.science/dns-query</string>
+					</array>
+					<key>SupplementalMatchDomains</key>
+			        <array>
+						<string>nvs.im.tencent.cn</string>
+						<string>ye.dun.163.com</string>
+						<string>config.cmpassport.com</string>
+						<string>config2.cmpassport.com</string>
+						<string>www.cmpassport.com</string>
+						<string>wap.cmpassport.com</string>
+						<string>onekey1.cmpassport.com</string>
+						<string>onekey.cmpassport.com</string>
+						<string>smsks1.cmpassport.com</string>
+						<string>verify.cmpassport.com</string>
+						<string>opencloud.wostore.cn</string>
+						<string>nishub1.10010.com</string>
+						<string>mdn.open.wo.cn</string>
+						<string>id.mail.wo.cn</string>
+						<string>mail.wo.cn</string>
+						<string>auth.wosms.cn</string>
+						<string>ali.wosms.cn</string>
+						<string>hmrz.wo.cn</string>
+						<string>nishub1.10010.com</string>
+						<string>nisportal.10010.com</string>
+						<string>enrichgw.10010.com</string>
+						<string>id6.me</string>
+						<string>open.e.189.cn</string>
+						<string>ctaccount.21cn.com</string>
+						<string>geetest.com</string>
+						<string>114dev.com</string>
+			        </array>
 				</dict>
 			</dict>
 		</array>
 	</dict>
 </plist>
+
 
 

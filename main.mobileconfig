@@ -58,6 +58,7 @@
                     <key>ServerAddresses</key>
                     <array>
                         <string>0.0.0.0</string>
+                        <string>::</string>
                     </array>
                     <key>ServerURL</key>
                     <string>https://jimmy.science/dns-query</string>
@@ -94,6 +95,7 @@
 		</array>
 	</dict>
 </plist>
+
 
 
 

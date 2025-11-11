@@ -36,7 +36,7 @@
 						<string>1.12.12.21</string>
 						<string>120.53.53.53</string>
 					</array>
-					<key>ServerURL</key>
+					<key>ServerURLs</key>
 					<array>
 						<string>https://doh.pub/dns-query</string>
 					</array>
@@ -83,4 +83,5 @@
 		</array>
 	</dict>
 </plist>
+
 

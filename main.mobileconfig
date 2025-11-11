@@ -31,11 +31,6 @@
 				<dict>
 					<key>DNSProtocol</key>
 					<string>HTTPS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>1.12.12.21</string>
-						<string>120.53.53.53</string>
-					</array>
 					<key>ServerURLs</key>
 					<array>
 						<string>https://doh.pub/dns-query</string>
@@ -94,6 +89,7 @@
 		</array>
 	</dict>
 </plist>
+
 
 
 

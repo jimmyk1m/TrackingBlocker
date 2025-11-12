@@ -4,8 +4,11 @@ https://cdn.jsdelivr.net/gh/jimmyk1m/TrackingBlocker/test.mobileconfig
 
 ---------------------------------------  
 
-Latest Version: 2025/11/12
-Change Log : IOS26不知道改了啥，终于修好了
+Latest Version: 1.1.0
+
+Latest modified: 2025/11/12 18:45
+
+Change Log: 修复DoT解析问题
 
 ---------------------------------------  
 

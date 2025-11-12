@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 1.1.0
+! Title: J's Tracking Blocker
+! Last modified: 2025/11/12 18:45 +0800
+! Expires: 30 days (update frequency)
+! Homepage: https://github.com/jimmyk1m/TrackingBlocker/
+! License: https://github.com/jimmyk1m/TrackingBlocker/blob/main/LICENSE
+!--------------------------General blocking filters---------------------------!
 ||nvs.im.tencent.cn^
 ||ye.dun.163.com^
 ||config.cmpassport.com^

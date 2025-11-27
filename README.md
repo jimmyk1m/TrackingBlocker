@@ -1,6 +1,6 @@
 # Tracking Blocker
 
-https://cdn.jsdelivr.net/gh/jimmyk1m/TrackingBlocker/test.mobileconfig
+https://cdn.jsdelivr.net/gh/jimmyk1m/TrackingBlocker/test2.mobileconfig
 
 ---------------------------------------  
 

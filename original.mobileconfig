@@ -29,15 +29,11 @@
 				<string>Dnspod DoT Setting</string>
 				<key>DNSSettings</key>
 				<dict>
-					<key>DNSProtocol</key>
-					<string>TLS</string>
 					<key>ServerAddresses</key>
 					<array>
 	                    <string>1.12.12.12</string>
 	                    <string>1.12.12.21</string>
 					</array>
-					<key>ServerName</key>
-					<string>dot.pub</string>
 				</dict>
 			</dict>
 			<dict>
@@ -53,14 +49,10 @@
 				<string>Phone detection Blocklist</string>
 				<key>DNSSettings</key>
 				<dict>
-					<key>DNSProtocol</key>
-					<string>TLS</string>
 					<key>ServerAddresses</key>
 					<array>
 	                    <string>0.0.0.0</string>
 					</array>
-					<key>ServerName</key>
-					<string>jimmy.science</string>
 				</dict>
 				<key>OnDemandRules</key>
 				<array>

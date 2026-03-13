@@ -1,0 +1,50 @@
+[Adblock Plus 2.0]
+! Version: 1.1.0
+! Title: J's Tracking Blocker_Switch
+! Last modified: 2026/3/13 21:00 +0800
+! Expires: 30 days (update frequency)
+! Homepage: https://github.com/jimmyk1m/TrackingBlocker/
+! License: https://github.com/jimmyk1m/TrackingBlocker/blob/main/LICENSE
+!--------------------------General blocking filters---------------------------!
+||nintendo.com^
+||nintendo.net^
+||nintendo.jp^
+||nintendo.co.jp^
+||nintendo.co.uk^
+||nintendo-europe.com^
+||nintendowifi.net^
+||nintendo.es^
+||nintendo.co.kr^
+||nintendo.tw^
+||nintendo.com.hk^
+||nintendo.com.au^
+||nintendo.co.nz^
+||nintendo.at^
+||nintendo.be^
+||nintendods.cz^
+||nintendo.dk^
+||nintendo.de^
+||nintendo.fi^
+||nintendo.fr^
+||nintendo.gr^
+||nintendo.hu^
+||nintendo.it^
+||nintendo.nl^
+||nintendo.no^
+||nintendo.pt^
+||nintendo.ru^
+||nintendo.co.za^
+||nintendo.se^
+||nintendo.ch^
+||nintendoswitch.com^
+||nintendoswitch.com.cn^
+||nintendoswitch.cn^
+10.0.0.1 conntest.nintendowifi.net
+10.0.0.1 ctest.cdn.nintendo.net
+10.0.0.1 ctest.cdn.n.nintendoswitch.cn
+10.0.0.1 ctest.p01.ctest.srv.nintendo.net
+10.0.0.1 ctest-dl-lp1.cdn.nintendo.net
+10.0.0.1 ctest-ul-lp1.cdn.nintendo.net
+10.0.0.1 api-ipv6.p01.lp1.ctest.srv.nintendo.net
+10.0.0.1 api.p01.lp1.ctest.srv.nintendo.net
+95.216.149.205 90dns.test
